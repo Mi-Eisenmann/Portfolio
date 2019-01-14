@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Dev Portfolio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <string name="about_michael">
+         I see myself as a highly motivated, independently working physicist
+        with experiences in international research, leadership and data science."\n"
+         Over the course of my university studies I was repeatedly able to
+        show my capabilities to get to grips with topics of cutting-edge physical research
+        and was able to work an successfully peer-reviewed publications."\n"
+         In the last years I additionally developed a strong interest in
+        the automation of recurring procedures and the creation of mobile android applications,
+        during my university years, and would like to develop myself in this direction.
+    </string>
+    <string name="contact">
+        Michael Eisenmann "\n"
+        Keplerstraße 21 "\n"
+        71522 Backnang "\n"
+        Germany
+    </string>
+    <string name="skills">
+        <b>Basic:</b> "\n"
+        \u2022 HTML/CSS "\n"
+        \u2022 PHP "\n"
+        \u2022 C/C++ "\n"
+        "\n"
+        <b>Advanced:</b> "\n"
+        \u2022 Python "\n"
+        \u2022 Java "\n"
+        \u2022 XML
+    </string>
+    <string name="work">
+        Feel free to browse my GitHub-profile: "\n"
+        "\n"
+        https://github.com/Mi-Eisenmann?tab=repositories
+    </string>
+</resources>
